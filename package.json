@@ -1,5 +1,6 @@
 {
   "name": "backend-api",
+  "author": "Md Siddiqur Rahman",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jane Doe",
   "license": "ISC"
 }
